@@ -1,0 +1,15 @@
+/Users/kyotzu/Projects/linqtask/linqtask/bin/Debug/net7.0/linqtask
+/Users/kyotzu/Projects/linqtask/linqtask/bin/Debug/net7.0/linqtask.deps.json
+/Users/kyotzu/Projects/linqtask/linqtask/bin/Debug/net7.0/linqtask.runtimeconfig.json
+/Users/kyotzu/Projects/linqtask/linqtask/bin/Debug/net7.0/linqtask.dll
+/Users/kyotzu/Projects/linqtask/linqtask/bin/Debug/net7.0/linqtask.pdb
+/Users/kyotzu/Projects/linqtask/linqtask/obj/Debug/net7.0/linqtask.csproj.AssemblyReference.cache
+/Users/kyotzu/Projects/linqtask/linqtask/obj/Debug/net7.0/linqtask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyotzu/Projects/linqtask/linqtask/obj/Debug/net7.0/linqtask.AssemblyInfoInputs.cache
+/Users/kyotzu/Projects/linqtask/linqtask/obj/Debug/net7.0/linqtask.AssemblyInfo.cs
+/Users/kyotzu/Projects/linqtask/linqtask/obj/Debug/net7.0/linqtask.csproj.CoreCompileInputs.cache
+/Users/kyotzu/Projects/linqtask/linqtask/obj/Debug/net7.0/linqtask.dll
+/Users/kyotzu/Projects/linqtask/linqtask/obj/Debug/net7.0/refint/linqtask.dll
+/Users/kyotzu/Projects/linqtask/linqtask/obj/Debug/net7.0/linqtask.pdb
+/Users/kyotzu/Projects/linqtask/linqtask/obj/Debug/net7.0/linqtask.genruntimeconfig.cache
+/Users/kyotzu/Projects/linqtask/linqtask/obj/Debug/net7.0/ref/linqtask.dll
